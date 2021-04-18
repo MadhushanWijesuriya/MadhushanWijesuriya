@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nothing impossible with a perfect plan.
 
 <!--
 **MadhushanWijesuriya/MadhushanWijesuriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
