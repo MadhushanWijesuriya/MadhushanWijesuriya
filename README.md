@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=MadhushanWijesuriya&column=7&rank=S,AAA)](https://github.com/MadhushanWijesuriya/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MadhushanWijesuriya&column=7)](https://github.com/MadhushanWijesuriya/github-profile-trophy)
 
 
